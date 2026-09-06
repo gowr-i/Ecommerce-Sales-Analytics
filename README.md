@@ -190,3 +190,37 @@ Ecommerce-Sales-Analytics/
 │   └── top_10_products_sales.png
 │
 └── README.md
+
+## ▶️ How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/gowr-i/Ecommerce-Sales-Analytics.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd Ecommerce-Sales-Analytics
+```
+
+### 3. Install the required libraries
+
+```bash
+pip install pandas matplotlib jupyter
+```
+
+### 4. Open the Jupyter Notebook
+
+Open:
+
+```text
+analysis/analysis.ipynb
+```
+
+Run the cells to reproduce the analysis and visualizations.
+
+git clone ...
+cd ...
+pip install ...
